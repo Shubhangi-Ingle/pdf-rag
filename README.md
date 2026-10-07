@@ -57,7 +57,7 @@ QUESTION ANSWERING (every time you ask)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-rag.git
+git clone https://github.com/Shubhangi-Ingle/pdf-rag.git
 cd pdf-rag
 ```
 
